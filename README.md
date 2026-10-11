@@ -200,7 +200,7 @@ These files live beside the game NRO in `switch/segasonic/userdata/`. When repor
 
 SegaSonic, its characters, original graphics, music, and trademarks belong to **SEGA**. Thanks to the authors of **MAME System32 / V60**, **ymfm**, **fastz80 / chips**, **SDL2**, **libnx / devkitPro**, **Noto Sans**, **Sphaira**, **HomeTile**, and **switch-nsp-forwarder**.
 
-The HOME installer is a separate **GPL-3.0** component. Its corresponding source, generator, pinned dependencies, and licenses are included in [`forwarder-source/`](forwarder-source/). Component licenses and artwork provenance are included in [`licenses/`](licenses/). AI assistance does not replace attribution to third-party authors.
+The HOME installer is a separate **GPL-3.0** component. Component licenses and artwork provenance are included in [`licenses/`](licenses/). AI assistance does not replace attribution to third-party authors.
 
 ---
 
