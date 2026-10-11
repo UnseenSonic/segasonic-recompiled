@@ -1,0 +1,27 @@
+{
+  "art_page": "https://gamesdb.launchbox-app.com/games/images/10480-segasonic-the-hedgehog",
+  "art": "Original SegaSonic title/gameplay artwork; rights belong to SEGA. Locally included at user request.",
+  "font": "Noto Sans Regular / SIL Open Font License 1.1",
+  "files": [
+    {
+      "file": "assets/ui/source/gameplay.png",
+      "url": "https://images.launchbox-app.com/f4965c11-7c4d-41a5-818e-2a1e3eeef100.png",
+      "sha256": "816751a085f0d1d07b18fd94b6b8d2c0014aee3a0abdb0a33bfe8cc02df70e99"
+    },
+    {
+      "file": "assets/ui/source/NotoSans-Regular.ttf",
+      "url": "https://raw.githubusercontent.com/notofonts/noto-fonts/main/hinted/ttf/NotoSans/NotoSans-Regular.ttf",
+      "sha256": "b85c38ecea8a7cfb39c24e395a4007474fa5a4fc864f6ee33309eb4948d232d5"
+    },
+    {
+      "file": "assets/ui/source/OFL.txt",
+      "url": "https://raw.githubusercontent.com/notofonts/noto-fonts/main/LICENSE",
+      "sha256": "0dab92d0544f7b233403f14b84a663bdbfa746982eda629e7f4f9ffe1b036feb"
+    },
+    {
+      "file": "assets/ui/source/clear-logo.png",
+      "url": "https://images.launchbox-app.com/c6f939d0-6c48-41ef-8418-75e0e2ee6ffd.png",
+      "sha256": "3663f4c5504ab7ae0652eac1f518e3b9e1767afd9f20808c69613d478dd3ebf1"
+    }
+  ]
+}
